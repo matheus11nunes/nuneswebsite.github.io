@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(247, 146, 14);
+}
+p {
+    color: rgb(6, 6, 151);
+}
+nav {
+    background-color: white;
+}
+nav a {
+    color: rgb(255, 0, 76);
+}
+body {
+    background-color: grey;
+}
